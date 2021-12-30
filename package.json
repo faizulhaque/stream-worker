@@ -29,7 +29,7 @@
     "sinon-expect": "~0.2.0"
   },
   "engines": {
-    "node": "~0.10.0"
+    "node": "0.10.0 || 14.x"
   },
   "dependencies": {
     "bluebird": "^3.1.1"
